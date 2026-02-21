@@ -1,0 +1,15 @@
+# =========================
+# Python (Backend)
+# =========================
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+
+# Environment variables
+.env
+.env.*
